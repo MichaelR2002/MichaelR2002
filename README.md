@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Michael!</h1>
+<h1 align="center">👋 Hi, I'm Michael!</h1>
 
 ---
 
