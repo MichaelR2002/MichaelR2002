@@ -34,12 +34,12 @@ A collaborative project integrating C#, JavaScript, and MongoDB to deliver a ful
 Impact: Strengthened teamwork and code collaboration skills while applying multi-language development in a real project scenario, from backend logic to front-end presentation.
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelR2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 
 ## 📫 Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/michael-rolling-691590293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
