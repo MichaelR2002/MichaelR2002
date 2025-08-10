@@ -1,4 +1,3 @@
-<div align="center">
 # 💫 About Me:
 ## 👋 Hi, I'm Michael!
 Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below.
@@ -9,6 +8,7 @@ Proud graduate from Southeastern Louisiana University with a degree in Computer 
 - Expanding skills in system administration and engineering<br>
 - Returning to DevOps and coding projects I enjoyed during college<br>Building solutions that are fast, reliable, and user-friendly
 
+<div align="center">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/biggest_mike02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-rolling-691590293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelrolling4@gmail.com)<br/>
 
