@@ -28,7 +28,7 @@ A blog and forum platform built on MongoDB, designed to explore and apply databa
 
 Impact: Built practical experience with MongoDB, reinforced database schema design skills, and improved understanding of how backend architecture supports dynamic, user-driven content.
 
-**[411-Project-Repository](https://github.com/Kadrizzle/411-Project-Repository)**  
+**[CMPS 411 - Term Project](https://github.com/Kadrizzle/411-Project-Repository)**  
 A collaborative project integrating C#, JavaScript, and MongoDB to deliver a full-stack application. Focused on API development, database connectivity, and building a functional front-end that interacts with dynamic data.
 
 Impact: Strengthened teamwork and code collaboration skills while applying multi-language development in a real project scenario, from backend logic to front-end presentation.
