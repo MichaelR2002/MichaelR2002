@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 ## 👋 Hi, I'm Michael!
 Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below.
@@ -29,3 +30,4 @@ Proud graduate from Southeastern Louisiana University with a degree in Computer 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MichaelR2002&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+</div>
