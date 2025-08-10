@@ -1,45 +1,25 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Michael!</h1>
+# 💫 About Me:
+👋 Hi, I'm Michael!<br>🚀 About Me<br>Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below.<br><br>I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.<br><br>🎯 Current & Future Focus<br>Acquiring certifications relevant to my future endeavors<br>Expanding skills in system administration and engineering<br>Returning to DevOps and coding projects I enjoyed during college<br>Building solutions that are fast, reliable, and user-friendly
 
-## 🚀 About Me
-   Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below. 
 
-   I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/biggest_mike02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-rolling-691590293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelrolling4@gmail.com) 
 
-## 🎯 Current & Future Focus
-- Acquiring certifications relevant to my future endeavors
-- Expanding skills in system administration and engineering
-- Returning to DevOps and coding projects I enjoyed during college
-- Building solutions that are fast, reliable, and user-friendly
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MichaelR2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MichaelR2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelR2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📂 Featured Projects
-**[CMPS 285 — Term Project](https://github.com/MichaelR2002/CMPS285-SP2023-S01-G02)**
-A term project built with C# and TypeScript, featuring a web-based component, webhook integration, and automated project execution scripts. This project was a collaborative effort that emphasized the fundamentals of full-stack development, version control, and deployment workflows.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MichaelR2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Impact: Strengthened skills in C# and TypeScript development, learned how to integrate backend and frontend components, and gained hands-on experience with team-based version control and build automation.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**[CMPS 383 — Term Project](https://github.com/MichaelR2002/cmps383-2024-sp-p03-g03)**  
-A full-stack academic build with separate API, Mobile, Web, and Testing layers. Written primarily in C#, TypeScript, and JavaScript, it demonstrates modular architecture, cross-platform logic reuse, and test-driven development practices.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MichaelR2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Impact: Strengthened skills in building multi-tier applications, working across multiple platforms, and writing maintainable, well-structured code as part of a team.
-
-**[ByteBite](https://github.com/MichaelR2002/ByteBite)**  
-A blog and forum platform built on MongoDB, designed to explore and apply database integration concepts. Focused on understanding how data flows between the backend, database, and user interface.
-
-Impact: Built practical experience with MongoDB, reinforced database schema design skills, and improved understanding of how backend architecture supports dynamic, user-driven content.
-
-**[CMPS 411 - Term Project](https://github.com/Kadrizzle/411-Project-Repository)**  
-A collaborative project integrating C#, JavaScript, and MongoDB to deliver a full-stack application. Focused on API development, database connectivity, and building a functional front-end that interacts with dynamic data.
-
-Impact: Strengthened teamwork and code collaboration skills while applying multi-language development in a real project scenario, from backend logic to front-end presentation.
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelR2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-
-## 📫 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/michael-rolling-691590293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+---
+[![](https://visitcount.itsvg.in/api?id=MichaelR2002&icon=0&color=0)](https://visitcount.itsvg.in)
