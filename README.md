@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 About Me
-🧪 Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below. 
+    Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below. 
 
-🛡️ I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.
+    I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.
 
 ---
 
