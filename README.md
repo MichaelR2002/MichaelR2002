@@ -15,9 +15,8 @@
 ## 📂 Featured Projects
 | Project | Description | Impact |
 | --- | --- | --- |
-| **AppLocker Deployment Script** | Automated AppLocker policy rollout with error handling and XML management | Repeatable, auditable enforcement with fast rollback |
-| **VM Provisioning Workflow** | Automated VM lifecycle for an internal test lab | Cut provisioning time from hours to minutes |
-| **Cloud Cost Monitor** | Resource usage tracker with alerting | Visibility and cost controls without busywork |
+| **MongoRender** | A JavaScript-based rendering project with MongoDB integration. Focused on flexible data handling and display. | Showcases database integration with a lightweight, adaptable rendering layer. |
+| **CMPS 383 — Project 03 Group 03** | C# academic group project from Southeastern Louisiana University, built as part of a software development course. | Demonstrates teamwork, structured development practices, and applied C# programming skills. |
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -26,7 +25,13 @@
 </p>
 
 ## 📫 Connect
+
 <p align="center">
-  <a href="www.linkedin.com/in/michael-rolling-691590293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/YOURPROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/YOURUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
