@@ -27,11 +27,6 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE" target="_blank">
+  <a href="www.linkedin.com/in/michael-rolling-691590293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
