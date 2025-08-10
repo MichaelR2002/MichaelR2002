@@ -13,13 +13,25 @@
 - Building solutions that are fast, reliable, and user-friendly
 
 ## 📂 Featured Projects
-**MongoRender**
-A JavaScript-based rendering project with MongoDB integration, designed for flexible data handling and display.
-Impact: Showcases database integration with a lightweight, adaptable rendering layer.
+**[CMPS 285 — Term Project](https://github.com/MichaelR2002/CMPS285-SP2023-S01-G02)**
+A term project built with C# and TypeScript, featuring a web-based component, webhook integration, and automated project execution scripts. This project was a collaborative effort that emphasized the fundamentals of full-stack development, version control, and deployment workflows.
 
-**CMPS 383 — Project 03 Group 03**
-C# academic group project from Southeastern Louisiana University, built as part of a software development course.
-Impact: Demonstrates teamwork, structured development practices, and applied C# programming skills.
+Impact: Strengthened skills in C# and TypeScript development, learned how to integrate backend and frontend components, and gained hands-on experience with team-based version control and build automation.
+
+**[CMPS 383 — Term Project](https://github.com/MichaelR2002/cmps383-2024-sp-p03-g03)**  
+A full-stack academic build with separate API, Mobile, Web, and Testing layers. Written primarily in C#, TypeScript, and JavaScript, it demonstrates modular architecture, cross-platform logic reuse, and test-driven development practices.
+
+Impact: Strengthened skills in building multi-tier applications, working across multiple platforms, and writing maintainable, well-structured code as part of a team.
+
+**[ByteBite](https://github.com/MichaelR2002/ByteBite)**  
+A blog and forum platform built on MongoDB, designed to explore and apply database integration concepts. Focused on understanding how data flows between the backend, database, and user interface.
+
+Impact: Built practical experience with MongoDB, reinforced database schema design skills, and improved understanding of how backend architecture supports dynamic, user-driven content.
+
+**[411-Project-Repository](https://github.com/Kadrizzle/411-Project-Repository)**  
+A collaborative project integrating C#, JavaScript, and MongoDB to deliver a full-stack application. Focused on API development, database connectivity, and building a functional front-end that interacts with dynamic data.
+
+Impact: Strengthened teamwork and code collaboration skills while applying multi-language development in a real project scenario, from backend logic to front-end presentation.
 
 ## 📊 GitHub Stats
 <p align="center">
