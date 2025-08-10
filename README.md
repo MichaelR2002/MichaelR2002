@@ -21,17 +21,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelR2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelR2002&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ## 📫 Connect
-<p align="left">
+<p align="center">
   <a href="www.linkedin.com/in/michael-rolling-691590293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   
-  <a href="[https://github.com/YOURUSERNAME](https://github.com/MichaelR2002)" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
