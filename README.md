@@ -30,11 +30,8 @@
   <a href="www.linkedin.com/in/michael-rolling-691590293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+   
   <a href="[https://github.com/YOURUSERNAME](https://github.com/MichaelR2002)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-## 🎧 Now Playing
-[![Spotify](https://novatorem.YOURUSERNAME.vercel.app/api/spotify)]([https://open.spotify.com/user/YOURSPOTIFYID](https://open.spotify.com/user/mjrolling))
--->
