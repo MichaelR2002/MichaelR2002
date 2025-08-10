@@ -13,10 +13,13 @@
 - Building solutions that are fast, reliable, and user-friendly
 
 ## 📂 Featured Projects
-| Project | Description | Impact |
-| --- | --- | --- |
-| **MongoRender** | A JavaScript-based rendering project with MongoDB integration. Focused on flexible data handling and display. | Showcases database integration with a lightweight, adaptable rendering layer. |
-| **CMPS 383 — Project 03 Group 03** | C# academic group project from Southeastern Louisiana University, built as part of a software development course. | Demonstrates teamwork, structured development practices, and applied C# programming skills. |
+**MongoRender**
+A JavaScript-based rendering project with MongoDB integration, designed for flexible data handling and display.
+Impact: Showcases database integration with a lightweight, adaptable rendering layer.
+
+**CMPS 383 — Project 03 Group 03**
+C# academic group project from Southeastern Louisiana University, built as part of a software development course.
+Impact: Demonstrates teamwork, structured development practices, and applied C# programming skills.
 
 ## 📊 GitHub Stats
 <p align="center">
