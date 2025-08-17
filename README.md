@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 # 👋 Hi, I'm Michael!
 Proud graduate from Southeastern Louisiana University with a degree in Computer Science - Information Technology, where I spent most of my time learning languages and methods for DevOps, all the while working on the projects listed below.
 <br><br>I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.<br><br>
