@@ -4,6 +4,7 @@ Proud graduate from Southeastern Louisiana University with a degree in Computer 
 <br><br>I got my start at Source 1 Solutions as an intern, learned the ropes fast, and now work there as a Junior System Administrator. These days I focus on solving weird tech problems, and always looking for ways to make things faster, cleaner, and less of a headache.<br><br>
 
 # 🎯 Current & Future Focus
+- Development of my App Control project<br>
 - Acquiring certifications relevant to my future endeavors<br>
 - Expanding skills in system administration and engineering<br>
 - Returning to DevOps and coding projects I enjoyed during college<br>Building solutions that are fast, reliable, and user-friendly
